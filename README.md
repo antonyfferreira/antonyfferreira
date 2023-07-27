@@ -4,6 +4,7 @@
 
 ### <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/antonyfferreira/antonyfferreira/assets/51787105/02553540-6fa4-46d7-bc86-a1f2ec33e5ab" alt="oracle" width="30" height="30"/> </a> Atualmente sou Analista Cloud na TOTVS
 
+
 ### <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/antonyfferreira/antonyfferreira/assets/51787105/a042740b-1464-4cda-abe1-e1ffce7702bf" alt="oracle" width="30" height="30"/> </a> Estudando: 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/antonyfferreira/antonyfferreira/assets/51787105/f84e0bd9-cae6-4258-8c18-68f6e973c24f" alt="oracle" width="50" height="50"/> </a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="30" height="30"></a>
@@ -45,5 +46,3 @@
 ### 📊 GitHub Stats:
 
 ![Antony F. Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=antonyfferreira&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonyfferreira&hide_progress=true&theme=dark)
