@@ -4,6 +4,24 @@
 <strong>Analista de Serviços Cloud. Atualmente trabalho no Cloud da TOTVS, na sustentação de clientes Cloud Prime do ERP Protheus.</strong>
 </p>
 
+<br>
+
+<p align="left">
+  Gradução: Tecnologia em Processamento de Dados
+</p>
+
+<p align="left">
+  Pós-Graduação: MBA em Gestão de Banco de Dados Oracle
+</p>
+
+<br>
+
+<p align="left">
+  Estudando Engenharia de Dados e Python.
+</p>
+
+<br>
+
 <p align="left">
   Linguagens: <strong>Python</strong> e <strong>SQL</strong>.
 </p>
