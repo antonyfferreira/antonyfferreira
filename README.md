@@ -1,7 +1,7 @@
 ## Olá, meu nome é Antony F. Ferreira!
  
 <p align="left"> 
-<strong>Analista de Serviços Cloud. Atualmente trabalho no Cloud da TOTVS, na sustentação de clientes Cloud Prime do ERP Protheus.</strong>
+<strong>Profissional com experiência em tecnologia, especializado em Sistemas ERP, Banco de Dados, Análise de Dados e Engenharia de Dados. Experiência em sustentação e suporte em Sistemas ERP em Cloud, com conhecimentos em SQL, Power BI, Python e outras tecnologias. </strong>
 </p>
 
 <br>
