@@ -12,12 +12,14 @@
 
 <p align="left">
   Pós-Graduação: MBA em Gestão de Banco de Dados Oracle
+  
+  Pós-Graduação: Ciência de Dados e Big Data Analytics
 </p>
 
 <br>
 
 <p align="left">
-  Estudando Engenharia de Dados e Python.
+  Estudando Engenharia de Dados, Ciência de Dados e Python.
 </p>
 
 <br>
